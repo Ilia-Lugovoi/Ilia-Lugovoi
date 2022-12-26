@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ilya-Lugovoy
-- 👀 I’m interested in relationships, self-development, the world for happiness and my contribution to this world
-- 🌱 I’m currently learning to coding
+- 👀 I'm interested in finding solutions using information technology
+- 🌱 I'm currently a student at the Faculty of Developer at Geekbrains
 - 📫 Tg: https://t.me/Ilya_Lug
 
 <!---
