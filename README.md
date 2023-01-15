@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ilya-Lugovoy
-- 👀 I'm interested in finding solutions using information technology
+- 👀 I'm interested in analytics and programming
 - 🌱 I'm currently a student at the Faculty of Developer at Geekbrains
 - 📫 Tg: https://t.me/Ilya_Lug
 
