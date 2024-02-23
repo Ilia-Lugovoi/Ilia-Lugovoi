@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ilya-Lugovoy
+- 👋 Hi, I’m @Ilia-Lugovoi
 - 👀 I'm interested in analytics and programming
 - 🌱 I'm currently a student at the Faculty of Developer at Geekbrains
 - 📫 Tg: https://t.me/Ilia_Lugovoi
