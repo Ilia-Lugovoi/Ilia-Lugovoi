@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ilia Lugovoi - Data Analyst
+- 👋 Hi, I’m Ilia - Data Analyst
 - 📫 Write to me in tg: https://t.me/Ilia_Lugovoi
 
 <!---
