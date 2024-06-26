@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Ilia - Data Analyst
-- 📫 Write to me in tg: https://t.me/Ilia_Lugovoi
+- 👋 Hi, I’m Ilia - Prod Analyst
+- 📊 I love analytics and am currently freelancing 
 
-<!---
-Ilya-Lugovoy/Ilya-Lugovoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can contact me by telegram: https://t.me/Ilia_Lugovoi
