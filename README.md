@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Ilia - Prod Analyst
-- 📊 I love analytics and am currently freelancing 
+- 👋 Привет, Я Илья - Prod Analyst
 
-- 📫 You can contact me by telegram: https://t.me/Ilia_Lugovoi
+- 📫 Мой telegram: https://t.me/Ilia_Lugovoi
